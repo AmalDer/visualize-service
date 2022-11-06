@@ -311,7 +311,7 @@ async def consume_new_subs():
             date_time = mydata['day']
         print(f"La station la plus fréquentée pour la ligne C est {station} avec un nombre d'utilisateurs de {largest_num}.",date_time)
         print("--------------------------------------------------------------------------------------------------------------")
-    c.close()"""
+    c.close()
 
 
 
