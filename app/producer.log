@@ -1,18 +1,18 @@
-2022-11-06 12:06:13 Produced message on topic new_subs with value of {"day": "02/22/2008 12:52 AM", "new_subscribers": [{"number": 12, "normal_user": 12, "monthly": 12, "year": 12}]}
+2022-11-06 17:29:00 Produced message on topic new_subs with value of {"day": "05/24/2008 06:56 AM", "new_subscribers": [{"number": 5, "normal_user": 5, "monthly": 5, "year": 5}]}
 
-2022-11-06 12:06:17 Produced message on topic new_subs with value of {"day": "12/04/2008 05:02 PM", "new_subscribers": [{"number": 4, "normal_user": 4, "monthly": 4, "year": 4}]}
+2022-11-06 17:29:04 Produced message on topic new_subs with value of {"day": "09/28/2008 06:02 PM", "new_subscribers": [{"number": 4, "normal_user": 4, "monthly": 4, "year": 4}]}
 
-2022-11-06 12:06:21 Produced message on topic new_subs with value of {"day": "02/28/2008 06:26 AM", "new_subscribers": [{"number": 18, "normal_user": 18, "monthly": 18, "year": 18}]}
+2022-11-06 17:29:08 Produced message on topic new_subs with value of {"day": "05/01/2008 12:56 PM", "new_subscribers": [{"number": 13, "normal_user": 13, "monthly": 13, "year": 13}]}
 
-2022-11-06 12:06:25 Produced message on topic frequented_tram with value of {"day": "05/17/2008 01:28 AM", "interval_start": 21, "interval_stop": 21, "tram_A": [{"users": 21, "station1": 21, "station2": 21, "station3": 21}], "tram_B": [{"users": 21, "station1": 21, "station2": 21, "station3": 21}], "tram_C": [{"users": 21, "station1": 21, "station2": 21, "station3": 21}]}
+2022-11-06 17:29:13 Produced message on topic frequented_tram with value of {"day": "04/08/2008 06:14 AM", "interval_start": 11, "interval_stop": 11, "tram_A": [{"users": 11, "station1": 11, "station2": 11, "station3": 11}], "tram_B": [{"users": 11, "station1": 11, "station2": 11, "station3": 11}], "tram_C": [{"users": 11, "station1": 11, "station2": 11, "station3": 11}]}
 
-2022-11-06 12:06:29 Produced message on topic frequented_tram with value of {"day": "12/10/2008 11:21 AM", "interval_start": 4, "interval_stop": 4, "tram_A": [{"users": 4, "station1": 4, "station2": 4, "station3": 4}], "tram_B": [{"users": 4, "station1": 4, "station2": 4, "station3": 4}], "tram_C": [{"users": 4, "station1": 4, "station2": 4, "station3": 4}]}
+2022-11-06 17:29:17 Produced message on topic frequented_tram with value of {"day": "05/01/2008 03:02 PM", "interval_start": 19, "interval_stop": 19, "tram_A": [{"users": 19, "station1": 19, "station2": 19, "station3": 19}], "tram_B": [{"users": 19, "station1": 19, "station2": 19, "station3": 19}], "tram_C": [{"users": 19, "station1": 19, "station2": 19, "station3": 19}]}
 
-2022-11-06 12:06:33 Produced message on topic frequented_tram with value of {"day": "12/06/2008 05:27 PM", "interval_start": 15, "interval_stop": 15, "tram_A": [{"users": 15, "station1": 15, "station2": 15, "station3": 15}], "tram_B": [{"users": 15, "station1": 15, "station2": 15, "station3": 15}], "tram_C": [{"users": 15, "station1": 15, "station2": 15, "station3": 15}]}
+2022-11-06 17:29:21 Produced message on topic frequented_tram with value of {"day": "10/07/2008 07:52 AM", "interval_start": 19, "interval_stop": 19, "tram_A": [{"users": 19, "station1": 19, "station2": 19, "station3": 19}], "tram_B": [{"users": 19, "station1": 19, "station2": 19, "station3": 19}], "tram_C": [{"users": 19, "station1": 19, "station2": 19, "station3": 19}]}
 
-2022-11-06 12:06:37 Produced message on topic frequented_station with value of {"day": "02/14/2008 07:51 AM", "interval_start": 11, "interval_stop": 11, "tram_A": [{"users": 11, "station1": 11, "station2": 11, "station3": 11}], "tram_B": [{"users": 11, "station1": 11, "station2": 11, "station3": 11}], "tram_C": [{"users": 11, "station1": 11, "station2": 11, "station3": 11}]}
+2022-11-06 17:29:25 Produced message on topic frequented_station with value of {"day": "04/11/2008 10:32 PM", "interval_start": 2, "interval_stop": 2, "tram_A": [{"users": 2, "station1": 2, "station2": 2, "station3": 2}], "tram_B": [{"users": 2, "station1": 2, "station2": 2, "station3": 2}], "tram_C": [{"users": 2, "station1": 2, "station2": 2, "station3": 2}]}
 
-2022-11-06 12:06:41 Produced message on topic frequented_station with value of {"day": "12/26/2008 01:01 PM", "interval_start": 7, "interval_stop": 7, "tram_A": [{"users": 7, "station1": 7, "station2": 7, "station3": 7}], "tram_B": [{"users": 7, "station1": 7, "station2": 7, "station3": 7}], "tram_C": [{"users": 7, "station1": 7, "station2": 7, "station3": 7}]}
+2022-11-06 17:29:29 Produced message on topic frequented_station with value of {"day": "03/26/2008 04:46 PM", "interval_start": 15, "interval_stop": 15, "tram_A": [{"users": 15, "station1": 15, "station2": 15, "station3": 15}], "tram_B": [{"users": 15, "station1": 15, "station2": 15, "station3": 15}], "tram_C": [{"users": 15, "station1": 15, "station2": 15, "station3": 15}]}
 
-2022-11-06 12:06:45 Produced message on topic frequented_station with value of {"day": "07/24/2008 12:04 AM", "interval_start": 4, "interval_stop": 4, "tram_A": [{"users": 4, "station1": 4, "station2": 4, "station3": 4}], "tram_B": [{"users": 4, "station1": 4, "station2": 4, "station3": 4}], "tram_C": [{"users": 4, "station1": 4, "station2": 4, "station3": 4}]}
+2022-11-06 17:29:33 Produced message on topic frequented_station with value of {"day": "06/05/2008 03:22 AM", "interval_start": 3, "interval_stop": 3, "tram_A": [{"users": 3, "station1": 3, "station2": 3, "station3": 3}], "tram_B": [{"users": 3, "station1": 3, "station2": 3, "station3": 3}], "tram_C": [{"users": 3, "station1": 3, "station2": 3, "station3": 3}]}
 
