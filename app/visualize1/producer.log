@@ -1,0 +1,8 @@
+2022-11-05 21:57:51 Produced message on topic frequented_tram with value of {"day": "06/18/2008 06:45 PM", "interval_start": 4, "interval_stop": 4, "tram_A": [{"users": 4, "station1": 4, "station2": 4, "station3": 4}], "tram_B": [{"users": 4, "station1": 4, "station2": 4, "station3": 4}], "tram_C": [{"users": 4, "station1": 4, "station2": 4, "station3": 4}]}
+
+2022-11-05 21:57:55 Produced message on topic frequented_tram with value of {"day": "09/12/2008 03:28 PM", "interval_start": 10, "interval_stop": 10, "tram_A": [{"users": 10, "station1": 10, "station2": 10, "station3": 10}], "tram_B": [{"users": 10, "station1": 10, "station2": 10, "station3": 10}], "tram_C": [{"users": 10, "station1": 10, "station2": 10, "station3": 10}]}
+
+2022-11-05 21:57:59 Produced message on topic frequented_tram with value of {"day": "08/01/2008 05:24 AM", "interval_start": 10, "interval_stop": 10, "tram_A": [{"users": 10, "station1": 10, "station2": 10, "station3": 10}], "tram_B": [{"users": 10, "station1": 10, "station2": 10, "station3": 10}], "tram_C": [{"users": 10, "station1": 10, "station2": 10, "station3": 10}]}
+
+2022-11-05 21:58:03 Produced message on topic frequented_tram with value of {"day": "12/31/2008 10:43 AM", "interval_start": 17, "interval_stop": 17, "tram_A": [{"users": 17, "station1": 17, "station2": 17, "station3": 17}], "tram_B": [{"users": 17, "station1": 17, "station2": 17, "station3": 17}], "tram_C": [{"users": 17, "station1": 17, "station2": 17, "station3": 17}]}
+
