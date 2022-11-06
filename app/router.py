@@ -317,7 +317,7 @@ async def consume_new_subs():
 
     
 #on peut aussi visualiser la station de tram la plus fréquentée (inspirée de la fonction précédente)
-"""@route.get('/view_frequented_tram')
+@route.get('/view_frequented_tram')
 async def consume_frequented_tram():
     c=Consumer({'bootstrap.servers':'localhost:9092','group.id':'python-consumer','auto.offset.reset':'earliest'})
     print('Kafka Consumer has been initiated...')
@@ -347,5 +347,4 @@ async def consume_frequented_tram():
         print(data)
         print(f"La ligne la plus fréquentée est {ligne} avec un nombre d'utilisateurs de {largest_num}.",date_time)
         print("-------------------------------------------------------")
-    c.close()
-    """
+    c.close()"""
